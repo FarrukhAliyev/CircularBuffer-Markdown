@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\planlyTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\planlyTask\\markdown\\Markdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:markdown\\Markdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:circular-buffer\\CircularBuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBufferTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:circular-buffer\\CircularBufferTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:circular-buffer\\CircularBuffer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Markdown.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\planlyTask\\markdown\\Markdown.cs",
+              "RelativeDocumentMoniker": "markdown\\Markdown.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\planlyTask\\markdown\\Markdown.cs",
+              "RelativeToolTip": "markdown\\Markdown.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:51:46.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircularBufferTests.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBufferTests.cs",
+              "RelativeDocumentMoniker": "circular-buffer\\CircularBufferTests.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBufferTests.cs",
+              "RelativeToolTip": "circular-buffer\\CircularBufferTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:26:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircularBuffer.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.csproj",
+              "RelativeDocumentMoniker": "circular-buffer\\CircularBuffer.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.csproj",
+              "RelativeToolTip": "circular-buffer\\CircularBuffer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-30T11:32:05.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CircularBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.cs",
+              "RelativeDocumentMoniker": "circular-buffer\\CircularBuffer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\planlyTask\\circular-buffer\\CircularBuffer.cs",
+              "RelativeToolTip": "circular-buffer\\CircularBuffer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:31:47.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
